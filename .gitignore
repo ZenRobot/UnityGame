@@ -13,7 +13,7 @@ obj/
 *.userprefs
 /*.csproj
 *.pidb
-# *.pdb
+*.pdb
 *.suo
 /*.sln
 *.user
@@ -31,3 +31,6 @@ obj/
 ehthumbs.db
 Thumbs.db
 /*.pdb
+*.exe
+
+output_log.txt
